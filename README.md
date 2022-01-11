@@ -1,2 +1,3 @@
-# SCJU-Report
-SCJU SW engineering school reports and projects
+# SCJU-Python class code examples
+
+Author by Younghwan ( Bryan ) Kim
