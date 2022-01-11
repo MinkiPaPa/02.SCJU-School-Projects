@@ -1,3 +1,2 @@
-# SCJU-Python class code examples
-
-Author by Younghwan ( Bryan ) Kim
+# SCJU SW class report and source code examples
+author by Younghwan ( Bryan ) Kim
